@@ -10,5 +10,3 @@ const texto2 = 'Lentamente é mente muito lenta.'
 console.log(texto2.match(/(?:lenta)(mente).*\1/gi)) // ?: Não guarda nada no grupo
 console.log(texto2.match(/(?:lenta)(mente)?/gi))
 console.log(texto2.replace(/(lenta)(mente)/gi, 'Substitui e reocoloca')) // Substitui a palavra usando o retrovisor referente ao grupo.
-
-
