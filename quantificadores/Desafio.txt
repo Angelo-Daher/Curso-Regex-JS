@@ -1,0 +1,16 @@
+// DesafioCPF.js
+'CPF dos aprovados:
+    - 600.567.890-12
+    - 765.998.345-23 ...'   * 
+
+// DesafioTelefone.js
+'Lista Telefonica:
+    - (11) 98756-1212
+    - 98765- 4321 ...'  * Selecionar de forma opcional o ddd pq nem sempre estará informado
+
+//Desafio Email.js
+'Os emails dos convidados são:
+    - fulanodetal@cod3r.com
+    - xico@gmail.com ...'
+
+
